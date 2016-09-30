@@ -1,0 +1,1 @@
+{"virtualbox":{"/ml":{"guestpath":"/ml","hostpath":"/Users/traviskaufman/dev3/learning/machine-learning-fall-2016/homework","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/traviskaufman/dev3/learning/machine-learning-fall-2016","disabled":false,"__vagrantfile":true}}}
