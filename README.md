@@ -16,7 +16,7 @@ It comes with:
 
 ## Setting everything up
 
-1. Install [Vagrant](https://www.vagrantup.com/downloads.html) and [XQuartz](https://www.xquartz.org/) if you haven't already
+1. Install [Virtualbox](https://www.virtualbox.org/wiki/Downloads), [Vagrant](https://www.vagrantup.com/downloads.html), and [XQuartz](https://www.xquartz.org/) if you haven't already
 2. Clone this repo
 3. `cd` into the repo and run `vagrant up`. Note you might get an error
    if vagrant tries to install VirtualBox for you. If this happens, just
