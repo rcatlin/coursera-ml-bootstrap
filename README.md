@@ -11,8 +11,6 @@ It comes with:
 - A virtual machine you can use to run Octave.
 - Gnuplot for nicer plotting
 - An octaverc file that ensures the right directory every time
-- A patched `lib/` file in gzip form that can be added to each assignment to correct for the JSON encoding error in
-  the submissions for octave.
 
 ## Setting everything up
 
